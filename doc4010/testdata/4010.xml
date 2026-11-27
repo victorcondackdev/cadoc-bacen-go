@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento codigoDocumento="4010" cnpj="12345678" dataBase="2026-10" tipoRemessa="I">
+  <contas>
+    <conta codigoConta="1000000009" saldo="1382916.08"/>
+    <conta codigoConta="1100000002" saldo="932235.53"/>
+    <conta codigoConta="1110000009" saldo="5000.00"/>
+    <conta codigoConta="1130000003" saldo="927235.53"/>
+    <conta codigoConta="1600000007" saldo="448680.55"/>
+    <conta codigoConta="1610000004" saldo="448680.55"/>
+    <conta codigoConta="1611000003" saldo="309870.45"/>
+    <conta codigoConta="1612000002" saldo="152310.10"/>
+    <conta codigoConta="1619000005" saldo="13500.00"/>
+    <conta codigoConta="1900000006" saldo="2000.00"/>
+    <conta codigoConta="1910000003" saldo="2000.00"/>
+    <conta codigoConta="3000000007" saldo="50000.00"/>
+    <conta codigoConta="3100000000" saldo="50000.00"/>
+    <conta codigoConta="4000000006" saldo="623844.56"/>
+    <conta codigoConta="4100000009" saldo="620610.00"/>
+    <conta codigoConta="4110000006" saldo="500000.00"/>
+    <conta codigoConta="4120000003" saldo="120610.00"/>
+    <conta codigoConta="4900000003" saldo="3234.56"/>
+    <conta codigoConta="4910000000" saldo="2000.00"/>
+    <conta codigoConta="4920000007" saldo="1234.56"/>
+    <conta codigoConta="6000000004" saldo="800000.00"/>
+    <conta codigoConta="6100000007" saldo="800000.00"/>
+    <conta codigoConta="6110000004" saldo="1000000.00"/>
+    <conta codigoConta="6190000000" saldo="200000.00"/>
+    <conta codigoConta="7000000003" saldo="15636.45"/>
+    <conta codigoConta="7100000006" saldo="12180.55"/>
+    <conta codigoConta="7110000003" saldo="12180.55"/>
+    <conta codigoConta="7200000009" saldo="3455.90"/>
+    <conta codigoConta="8000000002" saldo="56564.93"/>
+    <conta codigoConta="8100000005" saldo="610.00"/>
+    <conta codigoConta="8200000008" saldo="13500.00"/>
+    <conta codigoConta="8300000001" saldo="42454.93"/>
+    <conta codigoConta="9000000001" saldo="50000.00"/>
+    <conta codigoConta="9100000004" saldo="50000.00"/>
+  </contas>
+</documento>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Doc3040 CNPJ="12345678" DtBase="2026-10" Remessa="1" Parte="1" TpArq="F" NomeResp="Victor Condack" EmailResp="scr@banco.example" TelResp="2133334444" TotalCli="2">
+  <Cli Tp="1" Cd="12345678909" Autorzc="S" PorteCli="5" IniRelactCli="2024-03-15" FatAnual="8500.00">
+    <Op IPOC="123456780202112345678909CP-7781" Contrt="CP-7781" Mod="0202" OrigemRec="0101" Indx="11" PercIndx="0" VarCamb="790" CEP="26255000" TaxEft="28.40" DtContr="2026-01-10" VlrContr="15000.00" NatuOp="01" DtVencOp="2027-12-10" ProvConsttd="420.00" DiaAtraso="51" CaracEspecial="1">
+      <Venc v110="1062.50" v120="1062.50" v130="1062.50" v140="3187.50" v150="6375.00" v160="2125.00" v210="1062.50" v220="1062.50"/>
+    </Op>
+    <Op IPOC="123456780101112345678909CC-0001" Contrt="CC-0001" Mod="0101" OrigemRec="0101" Indx="11" PercIndx="0" VarCamb="790" CEP="26255000" TaxEft="143.20" DtContr="2024-06-01" VlrContr="5000.00" NatuOp="01" DtVencOp="2025-03-01" ProvConsttd="4800.00" DiaAtraso="609">
+      <Venc v320="4812.77"/>
+    </Op>
+  </Cli>
+  <Cli Tp="2" Cd="11222333" Autorzc="S" PorteCli="2" IniRelactCli="2023-05-10" FatAnual="3600000.00">
+    <Op IPOC="123456780216211222333CG-2026-0042" Contrt="CG-2026-0042" Mod="0216" OrigemRec="0101" Indx="11" PercIndx="0" VarCamb="790" CEP="20760005" TaxEft="21.90" DtContr="2026-04-15" VlrContr="240000.00" NatuOp="01" DtVencOp="2028-04-15" ProvConsttd="3100.00">
+      <Venc v110="13333.33" v120="13333.33" v130="13333.33" v140="39999.99" v150="79999.98" v160="79999.98"/>
+    </Op>
+  </Cli>
+</Doc3040>
